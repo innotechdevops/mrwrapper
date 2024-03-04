@@ -5,7 +5,7 @@ MariaDB wrapper for Golang.
 ## Install
 
 ```shell
-go get 
+go get github.com/innotechdevops/mrwrapper
 ```
 
 ## How to use
